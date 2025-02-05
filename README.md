@@ -1,8 +1,9 @@
 # Tatiana Smirnova -  Data analyst portfolio
-Hello, I'm Tanya. Entry level data analyst.
+Hello, I'm Tatyana. Entry level data analyst.
 Welcome to my Portfolio.
 
-## Project 1
+## [Descriptive analysis](https://github.com/tata411/SQL_EDA_project) for e-commerce public dataset from Kaggle.
+Tools: MySql, BigQuery, Tableau 
 
-##SQl code from DataCamp Course
-https://github.com/tata411/SQL_tutorials/tree/main
+## [Some notes on PostegreSQL] (https://github.com/tata411/SQL_tutorials/tree/main) from DataCamp and Karpov Courses
+
