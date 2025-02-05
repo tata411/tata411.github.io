@@ -5,5 +5,5 @@ Welcome to my Portfolio.
 ## [Descriptive analysis](https://github.com/tata411/SQL_EDA_project) for e-commerce public dataset from Kaggle.
 Tools: MySql, BigQuery, Tableau 
 
-## [Some notes on PostegreSQL] (https://github.com/tata411/SQL_tutorials/tree/main) from DataCamp and Karpov Courses
+### [Some notes on PostegreSQL](https://github.com/tata411/SQL_tutorials/tree/main) from DataCamp and Karpov Courses
 
